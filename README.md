@@ -13,7 +13,7 @@ you can download code zip at
 
 > * For linux user, if your Qt is installed through package manager tools such "apt-get", make sure that you have installed the Qt5 develop package *qtbase5-private-dev*
 
-### Usage(1): Use Xlsx as Qt5's addon module
+### Usage(1): Use QtSsh as Qt5's addon module
 
 #### Building the module
 
